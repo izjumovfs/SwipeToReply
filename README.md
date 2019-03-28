@@ -21,4 +21,4 @@ You can add this library as Gradle dependency
               }
             }
             
-            implementation 'com.github.izjumovfs:SwipeToReply:1.0.0'
+            implementation 'com.github.izjumovfs:SwipeToReply:1.0.1'
